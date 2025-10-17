@@ -7,8 +7,8 @@
 
 /* === Base === */
 body {
-  font-family: "Newsreader", "Segoe UI", sans-serif;
-  font-weight: 400;
+  font-family: "Libertinus Sans", sans-serif; 
+  font-weight: 500;
   line-height: 1.7;
   color: #dfe2e4;
   max-width: 1100px;
